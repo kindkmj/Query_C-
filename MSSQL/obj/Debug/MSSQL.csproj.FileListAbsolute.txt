@@ -1,0 +1,12 @@
+D:\dev\C#\MSSQL\MSSQL\bin\Debug\MSSQL.exe.config
+D:\dev\C#\MSSQL\MSSQL\bin\Debug\MSSQL.exe
+D:\dev\C#\MSSQL\MSSQL\bin\Debug\MSSQL.pdb
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.csprojAssemblyReference.cache
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.Form1.resources
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.NewSQL.resources
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.Properties.Resources.resources
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.csproj.GenerateResource.cache
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.csproj.CoreCompileInputs.cache
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.exe
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.pdb
+D:\dev\C#\MSSQL\MSSQL\obj\Debug\MSSQL.EditText.resources
