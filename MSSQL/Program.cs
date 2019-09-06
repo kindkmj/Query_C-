@@ -6,7 +6,6 @@ using System.Windows.Forms;
 
 namespace MSSQL
 {
-    //Version 1.0
     public static class Program
     {
         public static Dictionary<string,string> SQLDic = new Dictionary<string, string>();
